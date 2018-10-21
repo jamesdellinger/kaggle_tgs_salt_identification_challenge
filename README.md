@@ -16,7 +16,8 @@
 
 ## Background
 * I began this competition in late September, 2018, after going through all 14 lessons of fast.ai's [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/) and [Cutting Edge Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html) courses.
-* The material presented in the [Carvana notebook](https://github.com/fastai/fastai/blob/master/courses/dl2/carvana-unet.ipynb) presented in [Lesson 14] of the course served as the foundation upon which I built my solution.
+* The material presented in the [Carvana notebook](https://github.com/fastai/fastai/blob/master/courses/dl2/carvana-unet.ipynb) presented in [Lesson 14](http://course.fast.ai/lessons/lesson14.html) of the course served as the foundation upon which I built my solution.
+* I used fast.ai version 0.7.x.
 
 ## Competition Summary
 * Many untapped oil deposits beneath the earth's surface happen to lie close to salt deposits. In order to safely drill for oil in these areas, drilling companies need to know precisely where the salt deposits are positioned, so that they can avoid them. 
