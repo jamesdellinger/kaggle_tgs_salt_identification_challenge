@@ -4,7 +4,7 @@
 <img src="https://github.com/jamesdellinger/kaggle_tgs_salt_identification_challenge/blob/master/images/thumb76_76.png" height="140">
 
 ## My Competition Solution
-* [Notebook](http://nbviewer.jupyter.org/github/jamesdellinger/kaggle_tgs_salt_identification_challenge/blob/master/kernel_tgs_salt_sub6_unet-ish_resnet34_(BEST).ipynb)
+* [Notebook](http://nbviewer.jupyter.org/github/jamesdellinger/kaggle_tgs_salt_identification_challenge/blob/master/kernel_tgs_salt_sub6_unet-ish_resnet34_(best).ipynb)
 
 ## My Solution's Key Components
 * U-Net networks: https://arxiv.org/pdf/1505.04597.pdf
