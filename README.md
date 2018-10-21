@@ -1,5 +1,5 @@
 # Kaggle TGS Salt Identification Challenge
-*Using the fast.ai library to build pre-trained ResNet34 + U-net solution to the [Kaggle TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge/overview).*
+*Using the fast.ai library to build pre-trained ResNet34 + U-Net solution to the [Kaggle TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge/overview).*
 
 <img src="https://github.com/jamesdellinger/kaggle_tgs_salt_identification_challenge/blob/master/images/thumb76_76.png" height="140">
 
@@ -7,7 +7,7 @@
 * [Notebook](http://nbviewer.jupyter.org/github/jamesdellinger/kaggle_tgs_salt_identification_challenge/blob/master/kernel_tgs_salt_sub6_unet-ish_resnet34_(BEST).ipynb)
 
 ## My Solution's Key Components
-* U-net networks: https://arxiv.org/pdf/1505.04597.pdf
+* U-Net networks: https://arxiv.org/pdf/1505.04597.pdf
 * Gradual unfreezing and discriminiative fine-tuning: https://arxiv.org/pdf/1801.06146.pdf
 * One-cycle training with momentum: https://arxiv.org/pdf/1803.09820.pdf
 * Lovasz hinge loss: https://arxiv.org/pdf/1705.08790.pdf
