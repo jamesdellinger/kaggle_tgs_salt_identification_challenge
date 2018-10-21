@@ -7,7 +7,12 @@
 * [Notebook](http://nbviewer.jupyter.org/github/jamesdellinger/kaggle_tgs_salt_identification_challenge/blob/master/kernel_tgs_salt_sub6_unet-ish_resnet34_(BEST).ipynb)
 
 ## Concepts
-* 
+* U-net networks: https://arxiv.org/pdf/1505.04597.pdf
+* Gradual unfreezing and discriminiative fine-tuning: https://arxiv.org/pdf/1801.06146.pdf
+* One-cycle training with momentum: https://arxiv.org/pdf/1803.09820.pdf
+* Lovasz hinge loss: https://arxiv.org/pdf/1705.08790.pdf
+* Concurrent Spatial and Channel Squeeze & Excitation: https://arxiv.org/pdf/1803.02579.pdf
+* Snapshot ensembling: https://arxiv.org/pdf/1704.00109.pdf
 
 ## Background
 * I began this competition in late September, 2018, after going through all 14 lessons of fast.ai's [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/) and [Cutting Edge Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html) courses.
