@@ -1,10 +1,15 @@
 # Kaggle TGS Salt Identification Challenge
-*Using the fast.ai library to build pre-trained ResNet34 + U-Net solution to the [Kaggle TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge/overview).*
+*Using the fast.ai library to build pre-trained ResNet34 & U-Net bronze medal solution to the [Kaggle TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge/overview).*
 
 <img src="https://github.com/jamesdellinger/kaggle_tgs_salt_identification_challenge/blob/master/images/thumb76_76.png" height="140">
 
 ## My Competition Solution
 * [Notebook](http://nbviewer.jupyter.org/github/jamesdellinger/kaggle_tgs_salt_identification_challenge/blob/master/kernel_tgs_salt_sub6_unet-ish_resnet34_(best).ipynb)
+
+## Final Leaderboard Result:
+* 240th place solo-submission (out of 3,234 teams total); top 8%
+* `0.864924` [private LB score](https://www.kaggle.com/c/tgs-salt-identification-challenge/leaderboard).
+* My solution writeup and discussion is [here on kaggle](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69136#407359).
 
 ## My Solution's Key Components
 * U-Net networks: https://arxiv.org/pdf/1505.04597.pdf
